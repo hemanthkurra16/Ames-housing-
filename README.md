@@ -14,6 +14,6 @@ regression models, machine learning algorithms, and data visualization technique
 
 Beyond academia, the Ames Housing Dataset plays a crucial role in real estate, economics, and urban planning. It offers valuable insights into housing market dynamics, assisting policymakers and investors in making informed decisions. In essence, the Ames Housing Dataset stands as a versatile and indispensable tool, bridging the gap between theory and practice in the realm of property valuation and real estate analysis.
 
-Real Estate Price Prediction Application
+#Real Estate Price Prediction Application
 I proposed the development of an R Shiny-based Real Estate Price Prediction Application, tailored to assist homeowners in estimating the market value of their property with precision. This innovative tool will analyze user-provided property details—such as the number of bedrooms and bathrooms, garage availability, and construction year—against a comprehensive dataset of similar properties to forecast a competitive sale price. The application will offer an interactive platform displaying comparable recent sales, enabling users to perform a market analysis and understand pricing trends. Our aim is to deliver a data-driven, user-friendly application that simplifies the property valuation process, providing homeowners with clear, actionable insights for informed decision-making in the real estate market.
 
